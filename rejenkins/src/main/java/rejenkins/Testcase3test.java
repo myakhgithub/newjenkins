@@ -1,14 +1,13 @@
 package rejenkins;
 
 import org.testng.annotations.Test;
-import org.testng.annotations.Test;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class Testcase1test {
+public class Testcase3test {
 	@Test
-	public void m1()
+	public void m3()
 	{
-		Reporter.log("Hello",true);
+		Reporter.log("bye bye",true);
 	}
 }

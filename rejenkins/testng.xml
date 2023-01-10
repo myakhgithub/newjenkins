@@ -5,6 +5,7 @@
     <classes>
       <class name="rejenkins.Testcase1test"/>
       <class name="rejenkins.Testcase2test"/>
+      <class name="rejenkins.Testcase3test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
